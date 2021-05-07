@@ -1,0 +1,2 @@
+creo un archivo con mi nombre
+le añado una linea de control linea 1
