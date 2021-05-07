@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-creo en el master 
-=======
-linea 1
->>>>>>> rama2
