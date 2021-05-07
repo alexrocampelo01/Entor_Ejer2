@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 creo en el master el archivo
 le sumo una linea de control linea 2
+=======
+creo un archivo con mi nombre
+le añado una linea de control linea 1
+>>>>>>> prueba2
